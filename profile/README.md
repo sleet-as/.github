@@ -7,6 +7,9 @@ personal playground for near smart contracts written in AssemblyScript.
 **NEAR AS SDK**
 <br/>
 https://github.com/near/near-sdk-as
+<br/>
+https://integratenear.dev/docs/c-assembly.html
+
 
 ### EXAMPLE CONTRACTS
 
